@@ -5,8 +5,7 @@ description: Write a short, visual UI-showcase case study (hook, copy, captions,
 
 # UX/UI Case Study Writer
 
-Produces a short, visual, process-first case study for hiring managers and design leads. The focus is a UI showcase: screens, flows, states, components and the decisions behind them. Research is a light supporting beat, not the centrepiece. The style is modelled on three public reference case studies (OpenAI x Hardware, Notion, Figma at rachelchen.tech/projects/). Reproduce the patterns, never the wording of those pages.
-
+Produces a short, visual, process-first case study for hiring managers and design leads. The focus is a UI showcase: screens, flows, states, components and the decisions behind them. Research is a light supporting beat, not the centrepiece. 
 ## Workflow
 
 1. **Classify the project**: shipped work or concept/competition work (see Project types).
