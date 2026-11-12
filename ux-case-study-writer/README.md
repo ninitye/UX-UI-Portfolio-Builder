@@ -2,7 +2,6 @@
 
 A Claude skill that interviews you about a design project, one question at a time, then writes a short, visual, process-first UI case study: hook, section copy, italic captions, a visual shot list and motion briefs. It can also check a set of case studies for consistency.
 
-It is modelled on the structure and voice of three public case studies (OpenAI x Hardware, Notion, Figma at rachelchen.tech/projects). It copies the patterns, not the wording, and is not affiliated with the original author.
 
 ## What it does
 
